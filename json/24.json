@@ -1,0 +1,42 @@
+{
+  "name": "Best friends #24",
+  "description": "Discover the heartwarming world of Best Friends, a unique NFT collection that celebrates the unbreakable bond of friendship. Each piece in this collection captures the essence of connection, loyalty, and shared memories through vibrant, one-of-a-kind digital art.",
+  "image": "https://raw.githubusercontent.com/coinz-maker/best_friends/refs/heads/main/images/24.png",
+  "dna": "228c01c30a840a00a90fbe3f1e3dd0f7927e4df5",
+  "edition": 24,
+  "date": 1742530121247,
+  "buttons": [
+    {
+      "label": "MEH CHAT",
+      "uri": "https://t.me/mehchatik"
+    }
+  ],
+  "creator": "https://t.me/licitator",
+  "attributes": [
+    {
+      "trait_type": "Scene",
+      "value": "rainbow"
+    },
+    {
+      "trait_type": "holidays",
+      "value": "pink"
+    },
+    {
+      "trait_type": "shark",
+      "value": "Bandit virus"
+    },
+    {
+      "trait_type": "zodiac",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "astro",
+      "value": "Coffee capibara"
+    },
+    {
+      "trait_type": "emojis",
+      "value": "WTF"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
